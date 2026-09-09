@@ -147,7 +147,7 @@ Imports the `add(a, b)` function from [`add_0.py`](https://github.com/Tolulope05
 
 [`1-calculation.py`](https://github.com/Tolulope05/alx-higher_level_programming/blob/main/0x02-python-import_modules/1-calculation.py)
 
-Imports arithmetic functions from [`calculator_1.py`](https://github.com/Tolulope05/alx-higher_level_programming/blob/main/0x02-python-import_modules/calculator_1.py) and performs addition, subtraction, multiplication, and division on `10` and `5`.
+Imports arithmetic functions from [`calculator_1.py`](https://github.com/OssamaSabihi/high_level_programming/blob/main/0x02-python-import_modules/calculator_1.py) and performs addition, subtraction, multiplication, and division on `10` and `5`.
 
 ---
 
@@ -352,12 +352,5 @@ Useful Python documentation:
 * [Python Command-Line Arguments](https://docs.python.org/3/library/sys.html)
 * [Python Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-## 👨‍💻 Author
-
-**Tolulope05**
-
-GitHub: [Tolulope05](https://github.com/Tolulope05)
-
----
 
 ⭐ If you find this project useful, feel free to explore the rest of the repository.
